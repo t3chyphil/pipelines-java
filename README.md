@@ -1,7 +1,6 @@
 ### Building from Source
 
-[![Build Status](https://dev.azure.com/t3chyphil0313/TestDevOps/_apis/build/status/t3chyphil.pipelines-java?branchName=master)]
-(https://dev.azure.com/t3chyphil0313/TestDevOps/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/t3chyphil0313/TestDevOps/_apis/build/status/t3chyphil.pipelines-java?branchName=master)](https://dev.azure.com/t3chyphil0313/TestDevOps/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
